@@ -1,12 +1,17 @@
 # Slack SADevs Rules and Guidelines
 
-1. Do not @channel in #general
-2. Be nice to others
-3. Respect each other
-4. Don't make fun of PHP too much. It has feelings, too
-5. Do not create redundant channels. For example, #javascript and #coffeescript. It's all the same thing. However, #javascript and #angular make sense.
+1. Do not @channel in #general.
+1. Respect each other and the tools we use.
+1. Check the channel list before you decide to make a new channel. If a channel already exists that you want to create, just join it and start chatting!
+1. If you have an issue, contact an admin. You can see the list of admins down below.
 
 If you have other additions to this rule set (this is a first draft), please submit them as a pull request.
 
 Thanks, and happy chatting, San Antonio Developers!
 
+Current admins:
+
+1. propagandapanda4
+1. gtmanfred
+1. drlordrevandrew
+1. redrobot
