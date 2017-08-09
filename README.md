@@ -11,7 +11,7 @@ Thanks, and happy chatting, San Antonio Developers!
 
 Current admins:
 
-1. propagandapanda4
-1. gtmanfred
-1. drlordrevandrew
-1. redrobot
+1. propagandapanda4 - Omar
+1. gtmanfred - Daniel Wallace
+1. drlordrevandrew - Andrew Herrington
+1. redrobot - Douglas Medizabal
