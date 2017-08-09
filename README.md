@@ -15,7 +15,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 Direct, unsolicited contact for hiring or commercial purposes is not acceptable on this Slack. If a user asked you not to directly contact them or reports you for such unsolicited contact then you are expected to stop immediately or risk a ban.
 
-[This code of conduct is adapted from [Conference Code of Conduct](http://confcodeofconduct.com) under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US), additional content adapted from the [Gopher Academy Slack Code of Conduct](https://docs.google.com/document/d/1YO_xIZPhD1OsquKdCuAq-fFECs8b37wfhVRfnx3DjzM/edit) and forked from the tech404 CoC]
+[This code of conduct is adapted from [Conference Code of Conduct](http://confcodeofconduct.com) and from [NYCTech code of conduct](https://github.com/skamille/CoC/blob/master/README.md) under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US), additional content adapted from the [Gopher Academy Slack Code of Conduct](https://docs.google.com/document/d/1YO_xIZPhD1OsquKdCuAq-fFECs8b37wfhVRfnx3DjzM/edit) and forked from the tech404 CoC]
 
 If you have other additions to this rule set (this is a first draft), please submit them as a pull request.
 
