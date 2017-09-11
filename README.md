@@ -1,3 +1,7 @@
+# Purpose
+
+[Purpose](purpose.md)
+
 # Slack SADevs Rules and Guidelines
 
 1. Do not @channel in #general.
